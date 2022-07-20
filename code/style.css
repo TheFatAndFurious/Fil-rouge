@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+
+#banner{
+    display: flex;
+    width: auto;
+    height: 15vw;
+    border: #007dc3 4px solid;
+    align-content: center;
+}
+
+#convecteur{
+    height: 100%;
+    object-fit: contain;
+    
+}
+
+#titre{
+    width: 100%;
+    text-align: center;
+    font-size: 70px;
+    color: #007dc3;
+    align-self: center;
+    padding: 50px;
+}
+
+#farnsworth{
+    height: 100%;
+    object-fit: contain;
+};
